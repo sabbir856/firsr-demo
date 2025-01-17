@@ -1,2 +1,3 @@
 # firsr-demo
-my first repository
+my first repository.
+this is firsrtime in gitgub
